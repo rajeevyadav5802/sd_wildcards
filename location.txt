@@ -1,0 +1,90 @@
+airport
+alleyway
+amusement park
+aquarium
+art gallery
+backyard
+balcony
+ballroom
+beach
+botanical garden
+bridge
+bus station
+cafe
+campground
+canyon
+cathedral
+cemetery
+city street
+cliff
+countryside
+desert
+dock
+downtown
+driveway
+fairground
+farm
+field
+forest
+fountain
+garden
+golf course
+graveyard
+harbor
+hiking trail
+hill
+historical building
+hospital
+hotel
+industrial area
+island
+jungle
+lake
+library
+lighthouse
+mansion
+market
+meadow
+mountain
+museum
+music hall
+nightclub
+office building
+opera house
+orchard
+park
+parking garage
+pier
+playground
+pool
+porch
+prairie
+rainforest
+ranch
+river
+rooftop
+ruins
+rural area
+scenic overlook
+school
+shopping mall
+skate park
+skyscraper
+sports arena
+stairway
+subway station
+supermarket
+swimming pool
+theater
+theme park
+train station
+urban street
+valley
+vineyard
+warehouse
+waterfall
+wetland
+wheat field
+wildlife reserve
+winery
+woods
